@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SlideLayout</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="more">More</string>
+    <string name="delete">Delete</string>
+    <string name="item">Item</string>
+</resources>
