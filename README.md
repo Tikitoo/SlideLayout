@@ -2,7 +2,8 @@
 
 SlideLayout 是一个类似QQ 中，ListView 中侧滑来显示删除信息，如下图。
 
-<video controls="" autoplay="" name="media" width="300" height=500><source src="http://7ktolw.com1.z0.glb.clouddn.com/yourfilename1.mp4" type="video/mp4"></video>
+![screenshot](http://7ktolw.com1.z0.glb.clouddn.com/slide-layout-screenshot.gif)
+<!--<video controls="" autoplay="" name="media" width="300" height=500><source src="http://7ktolw.com1.z0.glb.clouddn.com/yourfilename1.mp4" type="video/mp4"></video>-->
 
 ## 环境：
 - Android Studio 1.3+
