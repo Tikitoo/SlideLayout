@@ -12,11 +12,9 @@ SlideLayout 是一个类似QQ 中，ListView 中侧滑来显示删除信息，�
 - compile 'com.android.support:appcompat-v7:22.2.0'
 
 ## APK 下载
-
 - [SlideLayout](http://7ktolw.com1.z0.glb.clouddn.com/slide-layout-debug.apk)
 
 ## 参考
-
 -  [控制View的OnClick OnTouch 来实现ListView 的Item 的侧滑出现删除](http://blog.csdn.net/hpu_zyh/article/details/44497271)
 - [hanks-zyh/SlideLayout - Github](https://github.com/hanks-zyh/SlideLayout)
 
